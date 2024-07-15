@@ -92,12 +92,21 @@ ___
 
 ## Changelog 7: Update #6
 
+### Additions and changes
+
+- Added corals
+- Added dreapleafs
+- Added vines
+- Changed potted mushroom
+
 ### Patchs
 
 - Patched glitchy texture of loom
 - Fixed missing texture of pitcher
 - Updated block names for connected textures
 - Fixed sheep's custom model
+- Patched grass
+- Patched rotations of some pots
 
 ## Changelog 6: Update #5
 
