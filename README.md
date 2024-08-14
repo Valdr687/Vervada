@@ -104,6 +104,9 @@ ___
 ### Patchs
 
 - Patched glitchy texture of loom
+- Fixed missing texture of pitcher
+- Updated block names for connected textures
+- Fixed sheep's custom model
 - Patched grass
 - Patched rotations of some pots
 
