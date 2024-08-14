@@ -1,5 +1,1 @@
-{
-  "textures": {
-    "particle": "minecraft:block/stripped_crimson_stem"
-  }
-}
+{"textures":{"particle":"minecraft:block/stripped_crimson_stem"}}
