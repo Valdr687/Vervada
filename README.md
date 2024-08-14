@@ -98,6 +98,8 @@ ___
 - Added dreapleafs
 - Added vines
 - Changed potted mushroom
+- Optimized model
+- Added copper doors
 
 ### Patchs
 

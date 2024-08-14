@@ -1,5 +1,1 @@
-{
-  "textures": {
-    "particle": "minecraft:block/stripped_birch_log"
-  }
-}
+{"textures":{"particle":"minecraft:block/stripped_birch_log"}}
