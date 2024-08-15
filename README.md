@@ -98,8 +98,10 @@ ___
 - Added dreapleafs
 - Added vines
 - Changed potted mushroom
-- Optimized model
+- Optimized models
 - Added copper doors
+- Added trial spawner
+- Added vaults
 
 ### Patchs
 
