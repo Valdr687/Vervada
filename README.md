@@ -102,6 +102,8 @@ ___
 - Added copper doors
 - Added trial spawner
 - Added vaults
+- Added pale oak saplings
+- Added eyeblossom
 
 ### Patchs
 
